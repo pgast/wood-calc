@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Control from './containers/Control/Control';
 import ListItem from './containers/ListItem/ListItem';
 import ItemsView from './components/ItemsView/ItemsView'
-import Footer from './components/Footer/Footer';
 
 class App extends Component {
 
