@@ -13,11 +13,7 @@ import {
 const initialState = {
   result: 0,
   numDePiezas: 0,
-  piezas: [
-    {nombre: 'Pieza 1', cantidad: 2, ancho:2, alto:3, sentidoVeta: 'vertical', edit: false},
-    {nombre: 'Pieza 1', cantidad: 2, ancho:2, alto:3, sentidoVeta: 'vertical', edit: false},
-    {nombre: 'Pieza 1', cantidad: 2, ancho:2, alto:3, sentidoVeta: 'vertical', edit: false},
-  ],
+  piezas: [],
   tipoMadera: {
     espesor: '1/4',
     madera: 'Parota',
